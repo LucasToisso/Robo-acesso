@@ -1,2 +1,3 @@
 # Robo-acesso
-Robo criado para o acesso da versão do freto disponível no GitHub
+Robo criado com o intuito de simplificar o acesso aos sites utilizados no dia a dia.
+Necessário que a linguagem Python e a bliblioteca PyAutoGUI estejam instaladas no computador.
